@@ -8,8 +8,8 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-
 import java.time.LocalDateTime;
+
 
 @Getter
 @Setter
@@ -28,4 +28,3 @@ public class Appointment {
 
     // The @AllArgsConstructor annotation should generate the required constructor
 }
-
